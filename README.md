@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thanawatkpy
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning ML course in Edx and coursera.
+- 📫 thanawat.kpy@gmail.com
